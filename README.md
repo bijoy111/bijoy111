@@ -33,5 +33,8 @@
 ## Competitive Programming
 | Competition Name| Achievements |
 | :----- | :----: |
-| <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC 2021 | Dhaka Regionals <br /> Team: [BUET_LeftBehind][icpc_2021] <br /> Rank: 121/1747 |
-| <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC 2022 | Dhaka Regionals <br /> Team: [BUET_Noob_Nobabs][icpc_2022] <br /> Rank: 157/1648 |
+| <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC 2021 | Dhaka Regionals <br />           Team: [BUET_LeftBehind]  <br /> Rank: 121/1747 |
+| <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC 2022 | Dhaka Regionals <br /> Team: [BUET_Noob_Nobabs] <br /> Rank: 157/1648 |
+
+[BUET_LeftBehind]: https://algo.codemarshal.org/contests/icpc-dhaka-21-preli/standings?page=1
+[BUET_Noob_Nobabs]: https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings?page=1
