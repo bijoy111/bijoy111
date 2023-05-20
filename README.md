@@ -1,3 +1,4 @@
+![logo](https://github.com/bijoy111/bijoy111/blob/main/github_banner.jpg)
 <h1 align="center">Hi 👋, I'm Bijoy Ahmed Saiem</h1>
 <h3 align="center">A passionate Computer Science Engineering Student from Bangladesh</h3>
 
