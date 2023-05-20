@@ -27,3 +27,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijoy111&show_icons=true&locale=en" alt="bijoy111" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijoy111&" alt="bijoy111" /></p>
+
+
+
+## Competitive Programming
+| Competition Name| Achievements |
+| :----- | :----: |
+| <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC 2021 | Dhaka Regionals <br /> Team: [BUET_LeftBehind][icpc_2021] <br /> Rank: 121/1747 |
+| <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC 2022 | Dhaka Regionals <br /> Team: [BUET_Noob_Nobabs][icpc_2022] <br /> Rank: 157/1648 |
