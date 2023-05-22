@@ -1,4 +1,5 @@
-![logo](https://github.com/bijoy111/bijoy111/blob/main/github_banner.jpg)
+<!--![logo](https://github.com/bijoy111/bijoy111/blob/main/github_banner.jpg)-->
+![logo](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
 <h1 align="center">Hi 👋, I'm Bijoy Ahmed Saiem</h1>
 <h3 align="center">A passionate Computer Science Engineering Student from Bangladesh</h3>
 
