@@ -38,3 +38,27 @@
 
 [BUET_LeftBehind]: https://algo.codemarshal.org/contests/icpc-dhaka-21-preli/standings?page=1
 [BUET_Noob_Nobabs]: https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings?page=1
+
+
+
+
+
+
+
+
+## Problem Solving Stats
+
+| OJ          | Solve Count | Username                                                          |
+| ----------- | ----------- | ----------------------------------------------------------------- |
+| <img width="120px" height="50px" src="https://jooncco.com/public/images/codeforces-logo.jpeg" /> <br /> Codeforces  | 304         | [Saiem](https://codeforces.com/profile/Saiem) |
+| <img width="120px" height="50px" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png" /> <br /> CodeChef    | 52          | [bijoy111](https://www.codechef.com/users/bijoy111)                     |
+| <img width="120px" height="50px" src="https://cses.fi/logo.png?1" /> <br /> CSES        | 58          | [bijoy111](https://cses.fi/user/54530)                 |
+| <img width="120px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" /> <br /> GeeksforGeeks     | 4           | [bijoysaeem](https://auth.geeksforgeeks.org/user/bijoysaeem/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)       |
+| Total       | 418        |                                                                   |
+
+
+
+
+
+
+
