@@ -47,9 +47,9 @@
 
 
 
-## Username Across Platforms
+## Handles Across Platforms
 
-| Platforms            | Username                                                          |
+| Platforms            | Handles                                                          |
 | ----------- |  ----------------------------------------------------------------- |
 | <img width="120px" height="50px" src="https://miro.medium.com/v2/resize:fit:1200/1*iPZ00kImJY8oVioV5Dy75A.jpeg" /> <br /> Codeforces            | [Saiem](https://codeforces.com/profile/Saiem) |
 | <img width="120px" height="50px" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png" /> <br /> CodeChef               | [bijoy111](https://www.codechef.com/users/bijoy111)                     |
@@ -61,9 +61,13 @@
 
 | Project | Repo |
 | ----------- | ----------- |
-| Pac-Man  | https://github.com/bijoy111/Term-project-for-1-1.git |
-| Club Management  | https://github.com/bijoy111/Term-Project-for-1-2.git |
-| Medigreen  | https://github.com/bijoy111/Medigreen.git |
+| Pacman  | https://github.com/bijoy111/Pacman |
+| ClubMover  | https://github.com/bijoy111/ClubMover |
+| Medigreen  | https://github.com/bijoy111/Medigreen |
+| StudyShare(Frontend)  | https://github.com/bijoy111/StudyShare |
+| StudyShare(FullStack)  | https://github.com/bijoy111/StudyShare-FullStack |
+| DormEase  | https://github.com/bijoy111/DormEase |
+
 
 ## Personal projects 
 
@@ -77,5 +81,7 @@
 
 | Project | Repo |
 | ----------- | ----------- |
-| Comparing online shopping between website and social media  | https://github.com/bijoy111/Online-shopping-through-social-media-and-website.git |
+| “Social Media or Websites?”: A Quantitative Investigation on Preferences of Buyers and Sellers in Bangladesh  | https://github.com/bijoy111/Online-shopping-through-social-media-and-website.git |
+| SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt
+Chains  | https://github.com/bijoy111/JailBreakAttack |
 
