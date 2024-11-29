@@ -82,6 +82,5 @@
 | Project | Repo |
 | ----------- | ----------- |
 | “Social Media or Websites?”: A Quantitative Investigation on Preferences of Buyers and Sellers in Bangladesh  | https://github.com/bijoy111/Online-shopping-through-social-media-and-website.git |
-| SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt
-Chains  | https://github.com/bijoy111/JailBreakAttack |
+| SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt Chains  | https://github.com/bijoy111/JailBreakAttack |
 
