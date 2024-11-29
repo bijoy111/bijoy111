@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijoy111&label=Profile%20views&color=0e75b6&style=flat" alt="bijoy111" /> </p>
 
-- 🌱 I’m currently learning **machine learning ,deep learning ,game developing and software developing.**
+- 🌱 I’m currently learning **machine learning, deep learning, game development, and software development**
 
-- 💬 Ask me about **nodejs ,javascript ,C ,C++ ,java ,python.**
+- 💬 Ask me about **flutter, node.js, javascript, C, C++, java, python**
 
 - 📫 How to reach me **bijoysaeem@gmail.com**
 
@@ -47,17 +47,15 @@
 
 
 
-## Problem Solving Stats
+## Username Across Platforms
 
-| OJ          | Solve Count | Username                                                          |
-| ----------- | ----------- | ----------------------------------------------------------------- |
-| <img width="120px" height="50px" src="https://miro.medium.com/v2/resize:fit:1200/1*iPZ00kImJY8oVioV5Dy75A.jpeg" /> <br /> Codeforces  | 304         | [Saiem](https://codeforces.com/profile/Saiem) |
-| <img width="120px" height="50px" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png" /> <br /> CodeChef    | 52          | [bijoy111](https://www.codechef.com/users/bijoy111)                     |
-| <img width="120px" height="50px" src="https://cses.fi/logo.png?1" /> <br /> CSES        | 58          | [bijoy111](https://cses.fi/user/54530)                 |
-| <img width="120px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" /> <br /> GeeksforGeeks     | 4           | [bijoysaeem](https://auth.geeksforgeeks.org/user/bijoysaeem/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)       |
-| <img width="120px" height="50px" src="https://miro.medium.com/v2/resize:fit:1200/0*MRBGy-Gjd9PRl_HS.jpeg" /> <br /> LeetCode  | 2         | [bijoy111](https://leetcode.com/bijoy111/) |
-| Total       | 420        |                                                                   |
-
+| Platforms            | Username                                                          |
+| ----------- |  ----------------------------------------------------------------- |
+| <img width="120px" height="50px" src="https://miro.medium.com/v2/resize:fit:1200/1*iPZ00kImJY8oVioV5Dy75A.jpeg" /> <br /> Codeforces            | [Saiem](https://codeforces.com/profile/Saiem) |
+| <img width="120px" height="50px" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png" /> <br /> CodeChef               | [bijoy111](https://www.codechef.com/users/bijoy111)                     |
+| <img width="120px" height="50px" src="https://cses.fi/logo.png?1" /> <br /> CSES                   | [bijoy111](https://cses.fi/user/54530)                 |
+| <img width="120px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" /> <br /> GeeksforGeeks                 | [bijoysaeem](https://auth.geeksforgeeks.org/user/bijoysaeem/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)       |
+| <img width="120px" height="50px" src="https://miro.medium.com/v2/resize:fit:1200/0*MRBGy-Gjd9PRl_HS.jpeg" /> <br /> LeetCode            | [bijoy111](https://leetcode.com/bijoy111/) |
 
 ## Academic projects
 
