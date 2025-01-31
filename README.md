@@ -34,8 +34,8 @@
 ## Competitive Programming
 | Competition Name| Achievements |
 | :----- | :----: |
-| <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> IUPC 2021 | BUET <br />           Team: [BUET_LeftBehind]  <br /> Rank: 121/1747 |
-| <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> IUPC 2022 | BUET <br /> Team: [BUET_Noob_Nobabs] <br /> Rank: 157/1648 |
+|  IUPC 2021 | BUET <br />           Team: [BUET_LeftBehind]  <br /> Rank: 121/1747 |
+|  IUPC 2022 | BUET <br /> Team: [BUET_Noob_Nobabs] <br /> Rank: 157/1648 |
 
 [BUET_LeftBehind]: https://algo.codemarshal.org/contests/icpc-dhaka-21-preli/standings?page=1
 [BUET_Noob_Nobabs]: https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings?page=1
