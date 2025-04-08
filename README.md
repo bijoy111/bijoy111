@@ -1,7 +1,7 @@
 <!--![logo](https://github.com/bijoy111/bijoy111/blob/main/github_banner.jpg)-->
 ![logo](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
 <h1 align="center">Hi 👋, I'm Bijoy Ahmed Saiem</h1>
-<h3 align="center">A passionate Computer Science Engineering Student from Bangladesh</h3>
+<h3 align="center">An enthusiastic individual with a background in Computer Science Engineering</h3>
 
 <img align = "right" alt = "coding_gif" width = "400" src = "https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **machine learning, deep learning, game development, and software development**
 
-- 💬 Ask me about **flutter, node.js, javascript, C, C++, java, python**
+- 💬 Ask me about **flutter, node.js, react, javascript, C, C++, java, python**
 
 - 📫 How to reach me **bijoysaeem@gmail.com**
 
@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijoy111&show_icons=true&locale=en" alt="bijoy111" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijoy111&" alt="bijoy111" /></p>
+
 
 
 
