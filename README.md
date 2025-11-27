@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **machine learning, deep learning, game development, and software development**
 
-- 💬 Ask me about **flutter, node.js, react, javascript, C, C++, java, python**
+- 💬 Ask me about **Flutter, node.js, React, Django**
 
 - 📫 How to reach me **bijoysaeem@gmail.com**
 
