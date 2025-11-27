@@ -52,7 +52,7 @@
 | Platforms            | Handles                                                          |
 | ----------- |  ----------------------------------------------------------------- |
 | <img width="120px" height="50px" src="https://miro.medium.com/v2/resize:fit:1200/1*iPZ00kImJY8oVioV5Dy75A.jpeg" /> <br /> Codeforces            | [Saiem](https://codeforces.com/profile/Saiem) |
-| <img width="120px" height="50px" src="https://images.yourstory.com/cs/images/companies/codechef-1592821643695.jpg?fm=auto&ar=1:1&mode=fill&fill=solid&fill-color=fff" /> <br /> CodeChef               | [bijoy111](https://www.codechef.com/users/bijoy111)                     |
+| <img width="120px" height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEcv_WJfqB-tC3ZFADRoUMMMTtOA6ZzyAA6g&s" /> <br /> CodeChef               | [bijoy111](https://www.codechef.com/users/bijoy111)                     |
 | <img width="120px" height="50px" src="https://cses.fi/logo.png?1" /> <br /> CSES                   | [bijoy111](https://cses.fi/user/54530)                 |
 | <img width="120px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" /> <br /> GeeksforGeeks                 | [bijoysaeem](https://auth.geeksforgeeks.org/user/bijoysaeem/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)       |
 | <img width="120px" height="50px" src="https://miro.medium.com/v2/resize:fit:1200/0*MRBGy-Gjd9PRl_HS.jpeg" /> <br /> LeetCode            | [bijoy111](https://leetcode.com/bijoy111/) |
