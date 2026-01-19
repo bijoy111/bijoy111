@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijoy111&label=Profile%20views&color=0e75b6&style=flat" alt="bijoy111" /> </p>
 
-- 🌱 I'm currently engaged in **web development**, and research work on **HCI, LLM Privacy and Security**
+- 🌱 I'm currently engaged in web and app development**, as well as research work in the fields of HCI, LLM Privacy and Security, Network Function Virtualization, and Wireless Ad hoc and Sensor Networks**
 
 - 💬 Ask me about **Flutter, node.js, React, Django**
 
