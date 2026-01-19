@@ -30,7 +30,7 @@
 
 
 
-
+<!--
 ## Competitive Programming
 | Competition Name| Achievements |
 | :----- | :----: |
@@ -39,7 +39,7 @@
 
 [BUET_LeftBehind]: https://algo.codemarshal.org/contests/icpc-dhaka-21-preli/standings?page=1
 [BUET_Noob_Nobabs]: https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings?page=1
-
+-->
 
 
 
@@ -51,7 +51,6 @@
 
 | Platforms            | Handles                                                          |
 | ----------- |  ----------------------------------------------------------------- |
-| <img width="120px" height="50px" src="https://miro.medium.com/v2/resize:fit:1200/1*iPZ00kImJY8oVioV5Dy75A.jpeg" /> <br /> Codeforces            | [Saiem](https://codeforces.com/profile/Saiem) |
 | <img width="120px" height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEcv_WJfqB-tC3ZFADRoUMMMTtOA6ZzyAA6g&s" /> <br /> CodeChef               | [bijoy111](https://www.codechef.com/users/bijoy111)                     |
 | <img width="120px" height="50px" src="https://cses.fi/logo.png?1" /> <br /> CSES                   | [bijoy111](https://cses.fi/user/54530)                 |
 | <img width="120px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" /> <br /> GeeksforGeeks                 | [bijoysaeem](https://auth.geeksforgeeks.org/user/bijoysaeem/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)       |
